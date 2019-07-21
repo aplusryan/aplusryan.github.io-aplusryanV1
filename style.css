@@ -1,33 +1,14 @@
 
-  p {
-    
-    text-decoration:underline;
-    
-  }
-
-    h1 {
-      color: purple;
-    }
-      
-      h5 {
-        color: red;
-      }
-     body {
-       background-color:#7CFC00;
-      }
-.cursive {
- font-family:cursive ;
+header {
+padding: 20px 0;
 }
 
-#title {
- color:purple
-   font-family: Arial;
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('IMG_1235.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
 }
-  
-body {
-	height: 100%;
-	margin: 0;
-	text-align: center;
-	width: 100%;
-}
-
