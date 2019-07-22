@@ -1,30 +1,33 @@
 
-header {
-padding: 20px 0;
+  p {
+    
+    text-decoration:underline;
+    
+  }
+
+    h1 {
+      color: purple;
+    }
+      
+      h5 {
+        color: red;
+      }
+     body {
+       background-color:#7CFC00;
+      }
+.cursive {
+ font-family:cursive ;
 }
 
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('hanoiLandscapeBKGPIC.png');
-  background-size: cover;
-  color: #ffffff;
-  height: 1000px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+#title {
+ color:purple
+   font-family: Arial;
+}
+  
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
 }
 
-
-header h1 {
-  font-weight: 1000;
-  margin: 0;
-}
-
-content {
-
-}
-
-header .row,
-footer .row {
-  display: flex;
-  align-items: center;
-}
