@@ -15,6 +15,16 @@ padding: 20px 0;
 
 
 header h1 {
-  font-weight: 700;
+  font-weight: 1000;
   margin: 0;
+}
+
+content {
+
+}
+
+header .row,
+footer .row {
+  display: flex;
+  align-items: center;
 }
